@@ -44,7 +44,7 @@ metadata: test-contentdm #metadata-test #demo_psychiana
 # contentdm collection name, matches collection ID used by CDM
 cdm-collection-id: p15730coll35 #psychiana
 # CONTENTdm server url
-cdm-url: https://cdm15730.contentdm.oclc.org/ #https://digital.lib.uidaho.edu
+cdm-url: https://cdm15730.contentdm.oclc.org #https://digital.lib.uidaho.edu
 # page generation settings [optional!]
 # [optional: only used if you need to tweak CB defaults or generate from more than one data file]
 # page_gen:
