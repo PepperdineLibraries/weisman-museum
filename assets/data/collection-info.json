@@ -1,0 +1,24 @@
+{ 
+    "title": "Frederick R. Weisman Museum of Art Collection",
+    "url": "https://pepperdinelibraries.github.io/weisman-museum/",
+    "image": "https://pepperdine.contentdm.oclc.org/digital/api/singleitem/image/p15730coll35/35/default.jpg", 
+    "description": "A selection of digitized artwork from the Frederick R. Weisman Museum of Art at Pepperdine University",
+    "publisher": { 
+        "name": "Pepperdine University Libraries", 
+        "url": "https://www.lib.uidaho.edu/digital/", 
+        "logo": "https://www.lib.uidaho.edu/media/digital/justdi_logo_sm.png" 
+    },
+    "date_start": "1902",
+    "date_end": "2019",
+    "objects": {
+        "video/mpeg": "1",
+        "application/pdf": "78",
+        "audio/mp3": "3",
+        "image/jpg": "25",
+        "image/jpeg": "7"
+        
+    },
+    "data": "https://pepperdinelibraries.github.io/weisman-museum/assets/data/datapackage.json",
+    "last_build_date": "2022-01-06"
+}
+

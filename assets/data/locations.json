@@ -1,0 +1,11 @@
+{ "locations": [
+    { "location" : "moscow, id", "count" : 11, "link" : "https://pepperdinelibraries.github.io/weisman-museum/browse.html#moscow,%20id" },
+    { "location" : "new york, ny", "count" : 4, "link" : "https://pepperdinelibraries.github.io/weisman-museum/browse.html#new%20york,%20ny" },
+    { "location" : "springfield, il", "count" : 3, "link" : "https://pepperdinelibraries.github.io/weisman-museum/browse.html#springfield,%20il" },
+    { "location" : "hendersonville, tn", "count" : 3, "link" : "https://pepperdinelibraries.github.io/weisman-museum/browse.html#hendersonville,%20tn" },
+    { "location" : "spokane, wa", "count" : 3, "link" : "https://pepperdinelibraries.github.io/weisman-museum/browse.html#spokane,%20wa" },
+    { "location" : "los angeles, ca", "count" : 2, "link" : "https://pepperdinelibraries.github.io/weisman-museum/browse.html#los%20angeles,%20ca" },
+    { "location" : "seattle, wa", "count" : 1, "link" : "https://pepperdinelibraries.github.io/weisman-museum/browse.html#seattle,%20wa" },
+    { "location" : "portland, or", "count" : 1, "link" : "https://pepperdinelibraries.github.io/weisman-museum/browse.html#portland,%20or" },
+    { "location" : "berkley, co", "count" : 1, "link" : "https://pepperdinelibraries.github.io/weisman-museum/browse.html#berkley,%20co" }
+]}
