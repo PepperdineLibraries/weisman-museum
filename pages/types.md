@@ -1,5 +1,5 @@
 ---
-title: Types
+title: Creators
 layout: cloud
 permalink: /types.html
 # Default subject page is configured in "_data/theme.yml"
@@ -7,7 +7,7 @@ permalink: /types.html
 cloud-fields: site.data.theme.subjects-fields
 ---
 
-## Browse Types
+## Browse Creators
 
 Use this word cloud visualization to browse terms and subjects.
 Word size is determined by frequency and all words link to a corresponding collection search.
